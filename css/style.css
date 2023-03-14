@@ -1,0 +1,56 @@
+:root{
+	--color-hover-menu:#FE8F01;
+}
+body{
+	font-size: 14px;
+}
+header{
+	background-color: #3d3d3d;
+	padding: 10px 0;
+}
+footer{
+	background-color: #333333;
+	color: #bababa;
+	padding: 15px 0;
+	text-align: center;
+}
+
+body{
+	font-family: "Open Sans", sans-serif;
+	color: #FFF;
+}
+
+
+#about us{
+	background-color: #494949;
+}
+
+#aboutus img{
+	padding: 0px;
+	width: 50px;
+	height: auto;
+}
+
+.s1{
+	background-color: #494949;
+	padding: 50px 0px;
+	float: left;
+}
+.s2{
+	background-color: #494949;
+	padding: 50px 0px;
+	float: left;
+}
+
+#counter{
+	background-color: #010101;
+	
+}
+
+.h2 {
+	color: #00000;
+}
+
+#counter{
+	background-color: #010101;
+}
